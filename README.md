@@ -1,10 +1,10 @@
-# Olá, pessoal! <img height="50em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/coelhin-2.gif">
+# Olá, pessoal! <img height="55em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/cat-and-heart.gif">
 
 
 <div align="left">
   <a href="https://github.com/Ematch-TCE">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ematch-tce&bg_color=30,a31c44,291932&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematch-tce&bg_color=30,a31c44,291932&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ematch-tce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematch-tce&layout=compact&langscount=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
