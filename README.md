@@ -1,5 +1,8 @@
 # Olá, pessoal! <img height="53em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/aaa.gif">
 
+## Conheça nosso Projeto
+
+A Ematch é uma aplicação web construída durante o ano de 2021 que tem como objetivo...
 
 <div align="left">
   <a href="https://github.com/Ematch-TCE">
