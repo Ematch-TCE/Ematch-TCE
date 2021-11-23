@@ -2,8 +2,10 @@
 
 <div>
   <h2>Conheça nosso Projeto</h2>
-  <p>A Ematch é uma aplicação web construída durante o ano de 2021 que tem como objetivo...</p>
+  <em> A <b> Ematch </b> é uma aplicação web construída durante o ano de 2021 com o objetivo de criar uma relação mais simples entre <b> candidatos </b> e <b>Empresas. </em> </b>
 </div>
+
+<br>
 
 <div align="left">
   <a href="https://github.com/Ematch-TCE">
