@@ -12,8 +12,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ematch-tce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematch-tce&layout=compact&langscount=7&theme=dracula"/>
 </div>
+  
+<h3>⭐ Linguagens utilizadas no website<h3>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   <img align="center" alt="Ematch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ematch-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ematch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,7 +23,7 @@
   
   ##
   
- ### Onde você pode nos achar
+<h3>👇 Onde você pode nos encontrar</h3>
   
  <div> 
   <a href ="mailto:tecods8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
