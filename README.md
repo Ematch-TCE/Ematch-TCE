@@ -1,4 +1,4 @@
-# Olá, pessoal! <img height="53em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/aaa.gif">
+# Olá, pessoal! <img height="53em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/aaaaa.png">
 
 <div>
   <h3>Conheça nosso Projeto</h3>
