@@ -1,4 +1,5 @@
-### Olá, pessoal! ✨🤩
+# Olá, pessoal! <img height="50em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/coelhin-2.gif">
+
 
 <div align="left">
   <a href="https://github.com/Ematch-TCE">
@@ -13,6 +14,8 @@
 </div>
   
   ##
+  
+ ### Onde você pode nos achar: 
   
  <div> 
   <a href ="mailto:tecods8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
