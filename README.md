@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://github.com/Ematch-TCE">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ematch-tce&bg_color=30,a31c44,291932&title_color=fff&text_color=fff"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematch-tce&bg_color=30,a31c44,291932&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematch-tce&bg_color=30,a31c44,291932&title_color=fff&text_color=fff"/>
 </div>
 
   <div style="display: inline_block"><br>
