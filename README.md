@@ -10,7 +10,7 @@
 
  <br>
  
- <h3>🌺 Integrantes da Equipe</h3>
+ <h3>🌺 Integrantes</h3>
   
    * Ana Beatriz
    * Bruna Campos
