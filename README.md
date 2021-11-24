@@ -9,6 +9,18 @@
  </div>
 
  <br>
+ 
+ <h3>🌺 Integrantes da Equipe</h3>
+  
+   * Ana Beatriz
+   * Bruna Campos
+   * Elisa Vitória
+   * Isabela Viana
+   * Ludmylla Dias 
+   * Maria Eduarda
+   * Tayná Menezes
+  
+  <br>
 
  <h3>⭐ Commits & Linguagens </h3>
 
@@ -37,17 +49,4 @@
   <a href="https://www.instagram.com/_ematch_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://ematch.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
  </div>
-  
- <br>
-  
- <h3>🦋 Integrantes da Equipe</h3>
-  
-   * Ana Beatriz
-   * Bruna Campos
-   * Elisa Vitória
-   * Isabela Viana
-   * Ludmylla Dias 
-   * Maria Eduarda
-   * Tayná Menezes
-  
   
