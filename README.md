@@ -40,7 +40,6 @@
   
  <h3>🦋 Integrantes da Equipe</h3>
   
- <div>
    * Ana Beatriz
    * Bruna Campos
    * Elisa Vitória
@@ -48,6 +47,5 @@
    * Ludmylla Dias 
    * Maria Eduarda
    * Tayná Menezes
- </div>
   
   
