@@ -5,7 +5,7 @@
 </div>
  
  <div>
-  <em> A <b> Ematch </b> é uma aplicação web construída durante o ano de 2021 com o objetivo de ser acessível de fácil uso para adultos e jovens à procura de um emprego que mantém uma interação entre <b> empresa </b> e <b> candidato. </b> </em>
+  <em> A <b> Ematch </b> é uma aplicação web construída durante o ano de 2021 com o objetivo de ser acessível para adultos e jovens à procura de um emprego. E com o intuito de oferecer agilidade na procura de empregos, disponibilizamos a funcionalidade Match Hub, tornando mais dinâmico a interação entre <b> Empresas </b> e <b> Candidatos. </b> </em>
 </div>
 
 <br>
