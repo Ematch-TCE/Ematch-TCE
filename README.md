@@ -42,8 +42,8 @@
  <h3>👇 Onde você pode nos encontrar</h3>
   
  <div> 
-  <a href ="mailto:tecods8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_ematch_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://ematch.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
+  <a href ="mailto:tecods8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/_ematch_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://ematch.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
  </div>
   
