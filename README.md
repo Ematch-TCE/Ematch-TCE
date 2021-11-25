@@ -4,23 +4,23 @@
   <h3>✨ Sobre o Projeto</h3> 
  </div>
  
- <div>
   <em> A <b> Ematch </b> é uma aplicação web construída durante o ano de 2021 com o objetivo de ser acessível para adultos e jovens à procura de um emprego. E com o intuito de     oferecer agilidade na procura de empregos, fornecemos a funcionalidade <b> Match Hub, </b> que pode facilitar tanto a pesquisa quanto a interação entre Empresas e Candidatos.  </em>
- </div>
 
- <br>
  
  <h3>🌺 Integrantes</h3>
   
-   * Ana Beatriz
-   * Bruna Campos
-   * Elisa Vitória
-   * Isabela Viana
-   * Ludmylla Dias 
-   * Maria Eduarda
-   * Tayná Menezes
-  
-  <br>
+   * **_Ana Beatriz_**
+   * **_Bruna Campos_**
+   * **_Elisa Vitória_**
+   * **_Isabela Viana_**
+   * **_Ludmylla Dias_**
+   * **_Maria Eduarda_**
+   * **_Tayná Menezes_**
+ 
+  ##
+ 
+ <br>
+ 
 
  <h3>⭐ Commits & Linguagens </h3>
 
