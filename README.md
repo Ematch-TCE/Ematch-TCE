@@ -4,7 +4,7 @@
   <h3>✨ Sobre o Projeto</h3> 
  </div>
  
-  <em> A <b> Ematch </b> é um site de fácil acessibilidade para smartphones e computadores com o objetivo de relacionar <b>empresas</b> e <b>candidatos</b> de maneira mais prática.  </em>
+ A <b> Ematch </b> é um site de fácil acessibilidade para smartphones e computadores com o objetivo de relacionar <b>empresas</b> e <b>candidatos</b> de maneira mais prática.
 
  <!--
  <h3>🌺 Integrantes</h3>
@@ -17,7 +17,7 @@
    * **_Maria Eduarda_**
    * **_Tayná Menezes_** 
        -->
- <br>
+  <br>
 
  <h3>⭐ Commits & Linguagens </h3>
 
