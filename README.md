@@ -4,8 +4,17 @@
   <h3>✨ Sobre o Projeto</h3> 
  </div>
  
- A <b> Ematch </b> é um website de fácil acessibilidade para smartphones e computadores com o objetivo de relacionar <b>empresas</b> e <b>candidatos</b> de maneira mais prática. 
+ A <b> Ematch </b> é um website de fácil acessibilidade para smartphones e computadores com o objetivo de relacionar <b>empresas</b> e <b>candidatos</b> de maneira mais prática. Como incentivo à criação desse site, levamos em consideração:
+ 
+ 
+```md
+ • O índice elevado de desempregados no Brasil
 
+ •  As consequências sociais e econômicas que emergem desse caso
+
+ •  As dificuldades de moradores que estão em lugares de difícil acesso para distribuir currículo
+```
+> Obs: Levantamos esses pontos a partir de pesquisas e pesquisa de campo realizadas
   <br>
 
  <h3>⭐ Commits & Linguagens </h3>
