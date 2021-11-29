@@ -14,7 +14,8 @@
 
  •  As dificuldades de moradores que estão em lugares de difícil acesso para distribuir currículo
 ```
-> Obs: Levantamos esses pontos a partir de pesquisas e pesquisa de campo realizadas
+> **Importante:** Levantamos esses pontos a partir de pesquisas e pesquisa de campo realizadas
+
   <br>
 
  <h3>⭐ Commits & Linguagens </h3>
