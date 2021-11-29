@@ -1,12 +1,12 @@
 # Oi, genteee! <img height="53em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/aaaaa.png"><img height="35em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/392002950-SPARKLES-EMOJI-400px-unscreen.gif">
 
  <div>
-  <h3>🌺 Sobre a Ematch</h3> 
+  <h3>🌺 Sobre o Ematch</h3> 
  </div>
  
  Desenvolvemos o projeto durante o ano de 2021 sob a orientação do professor Clóves Rocha e estamos muito felizes com o progresso que tivemos até então. 
  
- A <b> Ematch </b> é um website de fácil acessibilidade para smartphones e computadores com o objetivo de relacionar <b>empresas</b> e <b>candidatos</b> de maneira mais prática. Como incentivo à criação desse site, levamos em consideração:
+ O <b> Ematch </b> é um website de fácil acessibilidade para smartphones e computadores com o objetivo de relacionar <b>empresas</b> e <b>candidatos</b> de maneira mais prática. Como incentivo à criação desse site, levamos em consideração:
  
  
 ```md
