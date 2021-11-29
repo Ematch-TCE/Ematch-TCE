@@ -76,5 +76,18 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  
  </details>
  
+ ##
+ 
+ <br>
+ 
+ Agradecemos por ler até o final ❤
+ 
+ ---
+ 
+ Contribuições são bem-vindas! <3
+ 
+ _"Ematch: Um clique, vidas transformadas"_
+ 
+ 
  <br>
   
