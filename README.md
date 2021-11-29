@@ -1,5 +1,9 @@
 # Oi, genteee! Tudo bem? <img height="53em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/aaaaa.png"><img height="35em" src="https://github.com/Ematch-TCE/Ematch-TCE/blob/main/Gifs/392002950-SPARKLES-EMOJI-400px-unscreen.gif">
 
+
+> Criamos esse ambiente para deixar algumas informações sobre o Projeto, então dá uma olhada no que preparamos pra vocês! 
+
+
  <div>
   <h3>🌺 Sobre o Ematch</h3> 
  </div>
