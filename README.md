@@ -37,26 +37,30 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
   <a href="https://github.com/Ematch-TCE">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ematch-tce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematch-tce&layout=compact&langscount=7&theme=dracula"/>
+   </a>
  </div>
  
   </details>
   
- <br>
- 
- <details>
+   <br>
   
- <summary><b> Tecnologias usadas 💖 </b></summary>
+  <details>
+  
+  <summary><b> Tecnologias usadas 💖 </b></summary>
+  
+   <br>
 
-  <img align="center" alt="Ematch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ematch-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ematch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Ematch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Ematch-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Ematch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
  </details>
-  
+ 
  <br>
  
- 
  <details>
+ <summary><b> Onde você pode nos achar ✔ </b></summary>
+ 
   
   <br>
   
