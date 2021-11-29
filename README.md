@@ -14,7 +14,7 @@
 
  •  As dificuldades de moradores que estão em lugares de difícil acesso para distribuir currículo
 ```
-> **Importante:** Levantamos essas questões a partir de dados coletados em forms e muita pesquisa
+> **Importante:** Levantamos essas questões a partir de dados coletados em forms e pesquisas relacionadas ao assunto
 
   <br>
 
