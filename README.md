@@ -4,9 +4,10 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  
  <br>
 
- <div>
-  <h3>🌺 Sobre o Ematch</h3> 
- </div>
+  <details>
+  <summary><b> Detalhes sobre o Ematch 🌺 </b></summary>
+ 
+ <br>
  
  Desenvolvemos o projeto durante o ano de 2021 sob a orientação do professor Clóves Rocha e estamos muito felizes com o progresso que tivemos até então. 
  
@@ -21,8 +22,10 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  •  As dificuldades de moradores que estão em lugares de difícil acesso para distribuir currículo
 ```
 > **Importante:** Levantamos essas questões a partir de dados coletados em forms e pesquisas relacionadas ao assunto 
+ 
+   </details>
 
-  <br>
+<br>
 
  <h3>⭐ Commits & Linguagens </h3>
 
