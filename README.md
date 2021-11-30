@@ -29,7 +29,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
 
  <details>
 
- <summary><b> Commits & Linguagens ⭐ </b></summary>
+ <summary><b> Commits & Linguagens ⚡ </b></summary>
  
  <br>
 
@@ -46,7 +46,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
   
   <details>
   
-  <summary><b> Tecnologias usadas ⚡ </b></summary>
+  <summary><b> Tecnologias usadas ⚙ </b></summary>
   
    <br>
 
