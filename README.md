@@ -46,7 +46,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
   
   <details>
   
-  <summary><b> Tecnologias usadas 💖 </b></summary>
+  <summary><b> Tecnologias usadas ⚡ </b></summary>
   
    <br>
 
@@ -59,7 +59,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  <br>
  
  <details>
- <summary><b> Onde você pode nos achar ✔ </b></summary>
+ <summary><b> Onde você pode nos achar 🔍 </b></summary>
  
   
   <br>
@@ -81,13 +81,13 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  
  <br>
  
- Ficamos felizes por vocês terem lido até o final ❤
+ Esperamos que tenham gostado do projeto ❤
  
  ---
  
- Contribuições são bem-vindas! <3
+ Contribuições são bem-vindas! 😊
  
- _"Ematch: Um clique, vidas transformadas"_
+  > _"Ematch: Um clique, vidas transformadas"_
  
  
  <br>
