@@ -81,7 +81,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  
  <br>
  
- Agradecemos por ler até o final ❤
+ Ficamos felizes por vocês terem lido até o final ❤
  
  ---
  
