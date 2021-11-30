@@ -87,8 +87,6 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  
  Contribuições são bem-vindas! 😊
  
- _"Ematch: Um clique, vidas transformadas"_
- 
  
  <br>
   
