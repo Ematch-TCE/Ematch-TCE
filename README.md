@@ -59,7 +59,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  <br>
  
  <details>
- <summary><b> Onde você pode nos achar 🔍 </b></summary>
+ <summary><b> Onde vocês podem nos encontrar 🔍 </b></summary>
  
   
   <br>
