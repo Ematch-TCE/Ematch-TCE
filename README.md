@@ -15,7 +15,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  
  
 ```md
- • O índice elevado de desempregados no Brasil
+ •  O índice elevado de desempregados no Brasil
 
  •  As consequências sociais e econômicas que emergem desse caso
 
