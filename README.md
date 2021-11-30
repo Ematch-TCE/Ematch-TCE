@@ -9,7 +9,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
  
  <br>
  
- Desenvolvemos o projeto durante o ano de 2021 sob a orientação do professor Clóves Rocha e estamos muito felizes com o progresso que tivemos até então. 
+ Desenvolvemos o projeto durante o ano de 2021 sob a orientação do [professor Clóves Rocha](https://github.com/clovesrocha) e estamos muito felizes com o progresso que tivemos até então. 
  
  O <b> Ematch </b> é um website de fácil acessibilidade para smartphones e computadores com o objetivo de relacionar <b>empresas</b> e <b>candidatos</b> de maneira mais prática. Como incentivo à criação desse site, levamos em consideração:
  
