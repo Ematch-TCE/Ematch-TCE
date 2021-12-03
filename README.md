@@ -21,7 +21,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
 
  •  As dificuldades de moradores que estão em lugares de difícil acesso para distribuir currículo
 ```
-> **Importante:** Levantamos esses dados a partir do nosso formulário e de pesquisas voltadas ao tema
+> **Importante:**  Tiramos esses dados a partir do forms e de pesquisas voltadas ao tema
  
    </details>
 
