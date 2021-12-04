@@ -71,7 +71,7 @@ Criamos esse ambiente para deixar algumas informações sobre o Projeto, então 
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://ematch.netlify.app/" target="_blank">
-   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+   <img src="https://img.shields.io/badge/Netlify-00B8A8?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
  
  </details>
